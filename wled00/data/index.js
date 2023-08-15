@@ -9,7 +9,7 @@ var selectedFx = 0;
 var selectedPal = 0;
 var csel = 0; // selected color slot (0-2)
 var currentPreset = -1;
-var lastUpdate = 0;
+var lastUpdate = 0;sliderK
 var segCount = 0, ledCount = 0, lowestUnused = 0, maxSeg = 0, lSeg = 0;
 var pcMode = false, pcModeA = false, lastw = 0, wW;
 var tr = 7;
